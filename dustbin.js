@@ -21,7 +21,7 @@ class dustbin
     //strokeWeight(4);
     fill(255,0,255)
     imageMode(CENTER);
-    image(this.image, 1356,500)
+    image(this.image, 1200,500)
     //ellipse(0,0,this.r, this.r);
     pop()
     }
